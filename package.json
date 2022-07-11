@@ -1,6 +1,6 @@
 {
   "name": "get-focus-elements",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "get all the elements that can receive focus",
   "source": "src/main.js",
   "main": "dist/main.js",

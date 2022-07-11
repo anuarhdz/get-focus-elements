@@ -1,0 +1,29 @@
+{
+  "name": "get-focus-elements",
+  "version": "0.0.1",
+  "description": "get all the elements that can receive focus",
+  "source": "src/main.js",
+  "main": "dist/main.js",
+  "module": "dist/module.js",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuarhdz/get-focus-elements.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Anuar Reyes",
+    "email": "anuar@hey.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  },
+  "bugs": {
+    "url": "https://github.com/anuarhdz/get-focus-elements/issues"
+  },
+  "homepage": "https://github.com/anuarhdz/get-focus-elements#readme"
+}
